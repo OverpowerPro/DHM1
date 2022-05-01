@@ -822,12 +822,12 @@ for i, v in pairs(plrGui:GetChildren()) do
 
                     local tableofkeys = {
                         --Free Keys
-                        "^,B8i7e&#$QD='9z?OESs~t(I/[g0",
+                        "*OvPqOR_sYavtQ0",
                         "",
 
                         --Dev Key
 
-                        "69inch",
+                        "",
                         "",
                         ""
 
